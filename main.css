@@ -11,13 +11,13 @@ body {
 }
 
 .left-image {
-  text-align: left;
+  float: left;
   width: 360px;
   height: 203px;
 }
 
 .right-image {
-  text-align: right;
+  float: right;
   width: 360px;
   height: 203px;
 }
