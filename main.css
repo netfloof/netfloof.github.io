@@ -3,3 +3,21 @@ body {
   text-color: white;
   background-color: #181818;
 }
+
+.main {
+  font-family: Courier Ner, monospace;
+  text-color: white;
+  background-color: #181818;
+}
+
+.left-image {
+  text-align: left;
+  width: 640px;
+  height: 360px;
+}
+
+.right-image {
+  text-align: right;
+  width: 640px;
+  height: 360px;
+}
