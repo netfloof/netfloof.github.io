@@ -12,12 +12,12 @@ body {
 
 .left-image {
   text-align: left;
-  width: 640px;
-  height: 360px;
+  width: 360px;
+  height: 203px;
 }
 
 .right-image {
   text-align: right;
-  width: 640px;
-  height: 360px;
+  width: 360px;
+  height: 203px;
 }
