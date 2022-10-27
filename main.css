@@ -1,1 +1,11 @@
+* {
+  background-color: #181818;
+  font-family: Courier New, monospace;
+  color: white;
+}
 
+hr {
+    border: 0;
+    border-bottom: 1px dashed #ccc;
+    background: white;
+}
