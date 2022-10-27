@@ -9,3 +9,8 @@ hr {
     border-bottom: 1px dashed #ccc;
     background: white;
 }
+
+button {
+  border-radius: 25px;
+  border-color: white;
+}
