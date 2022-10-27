@@ -12,7 +12,8 @@ hr {
 
 button {
   border-radius: 25px;
-  border-color: white;
+  border: #20C20E;
+  background-color: #181818;
   padding: 10px;
   color: #20C20E;
   font-family: Courier New, monospace;
