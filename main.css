@@ -6,20 +6,11 @@ body {
 
 hr {
     border: 0;
-    border-bottom: 1px dashed #ccc;
+    border-bottom: 1px dashed #1CA80C;
     background: #20C20E;
 }
 
 button {
-  border-radius: 25px;
-  border: 2px solid #20C20E;
-  background-color: #181818;
-  padding: 10px;
-  color: #20C20E;
-  font-family: Courier New, monospace;
-}
-
-.href {
   border-radius: 25px;
   border: 2px solid #20C20E;
   background-color: #181818;
